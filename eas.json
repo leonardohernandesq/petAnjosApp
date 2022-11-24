@@ -13,6 +13,12 @@
     "production": {}
   },
   "submit": {
-    "production": {}
+    "production": {
+      "ios": {
+        "appleId": "carolina@anjosassistencia.com.br",
+        "ascAppId": "6444701043",
+        "appleTeamId": "JW28X29736"
+      }
+    }
   }
 }
