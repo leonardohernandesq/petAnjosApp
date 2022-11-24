@@ -2,7 +2,7 @@
   "expo": {
     "name": "Grupo Anjos App",
     "slug": "grupoanjosapp",
-    "version": "4.0.0",
+    "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./assets/ic_launcher.png",
     "userInterfaceStyle": "light",
@@ -20,7 +20,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.grupoAnjosApp",
-      "buildNumber": "4"
+      "buildNumber": "3"
     },
     "android": {
       "adaptiveIcon": {
@@ -33,7 +33,7 @@
     "web": {
       "favicon": "./assets/ic_launcher.png"
     },
-    "runtimeVersion": "4.0.0",
+    "runtimeVersion": "3.0.0",
     "extra": {
       "eas": {
         "projectId": "ca4c1fa0-9617-4b8e-81fb-729b4cfbcc42"
